@@ -1,0 +1,12 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.column-section {
+  width: 280px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
